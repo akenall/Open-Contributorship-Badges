@@ -34,7 +34,7 @@ We'll split up into two groups--one for creating and using badges and one for bu
 8.	Back to groups
 10.	Summing it up
 
-# Ingredients
+## Ingredients
 * AK to bring laminated badge printouts (3 of each)
 * Contacts list for future updates
 * USB keys prepped with PNG/PDF files of badges
@@ -44,3 +44,7 @@ We'll split up into two groups--one for creating and using badges and one for bu
 * A3 flip boards (2-4)
 * Big and medium black sharpies
 * Lots of post-its
+
+## Session Etherpads
+Planning Pad: https://etherpad.mozilla.org/vYCmQoVwPa
+Live Pad for the session: https://etherpad.mozilla.org/mozscience-contributorshipbadges
