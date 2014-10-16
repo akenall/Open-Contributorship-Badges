@@ -18,23 +18,18 @@ Research is increasingly reliant on a wide variety of skills ranging from data a
 3.	Who’s who. How many researchers? Any designers? Publishers?
 4.	Form teams. 
 5.	Badge creation/brainstorming group. 
-a.	What research skills are valuable?
-i.	Eg, try writing down your different roles as a researcher. What are some of the most valuable things you learned to do in those roles?
-b.	Do any of these need a digital credential?
-c.	What are the criteria for each badge?
-d.	Who will be issuing it?
 6.	Build and Infrastructure.
-a.	How would this integrate with ORCiD?
-b.	Workflow
 7.	Halfway presentation from both groups and feedback
-8.	Back to groups.
-a.	Badges creation: start mapping badges to your own timeline/roles or possible timelines of a young scientist through to professor.
-9.	Build and Infrastructure
-a.	Next steps
-b.	timelines
+8.	Back to groups
 10.	Summing it up
 
-Ingredients
-AK to bring badge printouts
+# Ingredients
+AK to bring laminated badge printouts (3 of each)
 Contacts list for future updates
 USB keys prepped with PNG/PDF files of badges
+Laminated Badges cheat sheet
+Laminated cheat sheets for backpack, API, discovery
+Laminated ORCiD cheat sheets and interface
+A3 flip boards (2-4)
+Big and medium black sharpies
+Lots of post-its
