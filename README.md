@@ -1,5 +1,12 @@
 Open-Contributorship-Badges
 ===========================
+##Register
+https://sendto.mozilla.org/page/contribute/mozilla-festival-2014-registration
+
+##When and Where
+Saturday 25 October, 10am to 1 pm.
+Science floor at Ravensbourne
+It is a 2 minute walk from North Greenwich underground station to Ravensbourne. On exiting the station, please follow signs to The O2 and follow the covered walkway to The O2's main entrance. Before you reach the main entrance to The O2, turn right into Penrose Way and Ravensbourne’s entrance is on your right.
 
 ## Intro
 
