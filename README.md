@@ -46,5 +46,7 @@ We'll split up into two groups--one for creating and using badges and one for bu
 * Lots of post-its
 
 ## Session Etherpads
+
 Planning Pad: https://etherpad.mozilla.org/vYCmQoVwPa
+
 Live Pad for the session: https://etherpad.mozilla.org/mozscience-contributorshipbadges
