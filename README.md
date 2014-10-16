@@ -5,7 +5,7 @@ Open-Contributorship-Badges
 
 Research is increasingly reliant on a wide variety of skills ranging from data analysis, programming, and other contributor roles. Unfortunately, the current reward system in academia often fails to give credit for contributions beyond authorship on an article. Can we use the Open Badge Infrastructure at Mozilla to overcome this? This repository is to help get this off the ground at MozFest.
 
-We'll split up into two groups--one for creating and using badges and one for building the badge tool and integration. See files on Badge Creation and [Build and Infrastructure] (myLib/Build-and-Infrastructure).
+We'll split up into two groups--one for creating and using badges and one for building the badge tool and integration. See files on Badge Creation and [Build and Infrastructure] (Open-Contributorship-Badges/Build-and-Infrastructure).
 
 ## Session Aims
 
