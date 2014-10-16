@@ -24,12 +24,12 @@ Research is increasingly reliant on a wide variety of skills ranging from data a
 10.	Summing it up
 
 # Ingredients
-AK to bring laminated badge printouts (3 of each)
-Contacts list for future updates
-USB keys prepped with PNG/PDF files of badges
-Laminated Badges cheat sheet
-Laminated cheat sheets for backpack, API, discovery
-Laminated ORCiD cheat sheets and interface
-A3 flip boards (2-4)
-Big and medium black sharpies
-Lots of post-its
+* AK to bring laminated badge printouts (3 of each)
+* Contacts list for future updates
+* USB keys prepped with PNG/PDF files of badges
+* Laminated Badges cheat sheet
+* Laminated cheat sheets for backpack, API, discovery
+* Laminated ORCiD cheat sheets and interface
+* A3 flip boards (2-4)
+* Big and medium black sharpies
+* Lots of post-its
