@@ -4,7 +4,7 @@ This group could include researchers, designers, librarians, and others involved
 You'll be brainstorming what credit is missing in research. 
 
 
-## Badges Review
+## Badges Review (85min)
 
 You'll have lots of A3 paper, sharpies, and post-its to start your review of the current badges and brainstorming any skills missing. Try starting with these questions:
 
@@ -20,7 +20,7 @@ For example, besides publications, what skills do you want to see when you hire 
 ## Presentation Prep (15 min)
 Take 15 min to put together a quick presentation (roughly 5min for presenting, 5 for questions)
 
-## Badges Pathways
+## Badges Pathways (till end)
 
 What could badge pathways look like? Map out as many badge pathways as possible from role to role on large A3 sheets.
 
