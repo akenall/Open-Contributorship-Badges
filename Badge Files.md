@@ -50,18 +50,27 @@ Preparation, creation and/or presentation of the published work, specifically wr
 ## T10 - [Writing - Review & Editing](https://github.com/akenall/Open-Contributorship-Badges/issues/1) 
 Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision - including pre- or post-publication stages.
 
+![](https://cloud.githubusercontent.com/assets/6196005/4693071/14b9c3fc-5789-11e4-9bb9-42cea0f23426.png)
 
 ## T11 - [Visualization](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Preparation, creation and/or presentation of the published work, specifically visualization/data presentation.
 
+![](https://cloud.githubusercontent.com/assets/6196005/4693068/0d6f8dd4-5789-11e4-89a2-a655f0f41f87.png)
+
 ## T12 - [Supervision](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team.
+
+![](https://cloud.githubusercontent.com/assets/6196005/4693077/14d9e2a4-5789-11e4-8402-1df49cb721a1.png)
 
 ## T13 - [Project Administration](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Management and coordination responsibility for the research activity planning and execution.
 
+![](https://cloud.githubusercontent.com/assets/6196005/4693072/14c08ed0-5789-11e4-99ab-94f03654d913.png)
+
 ## T14 - [Funding Acquisition](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Acquisition of the financial support for the project leading to this publication.
+ 
+ ![](https://cloud.githubusercontent.com/assets/6196005/4693074/14c32a78-5789-11e4-8250-1a42155dd267.png)
  
 ## What Badges are we missing?
 
