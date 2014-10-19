@@ -49,7 +49,7 @@ https://github.com/mozilla/openbadges-badgekit/wiki/BadgeKit-Self-Hosting-Guide
 
 **[For MozFest: Email Issuer].**
 
-**[Summing it Up: Issue, Earn, Display (20min)]** 
+## Summing it Up: Issue, Earn, Display (20min) 
 What does one need to issue a badge?
 What does one need to earn a badge?
 What does one need to display a badge
@@ -64,8 +64,8 @@ With the architecture currently out there, can we put something together now (eg
 
 ## Planning (20min)
 Where will the PaperBadger data live?
+Who will be the issuer?
 How to divide up the work?
-Who is the "issuer" owner?
 
 
 
