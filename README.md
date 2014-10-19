@@ -24,15 +24,13 @@ We'll split up into two groups--one for creating and using badges and one for bu
 
 ## Agenda
 
-1.	Short Presentation. What are Open Badges? Problem of contributorship and credit in science. How can Open Badges help this.
-2.	Run through. How will this sprint work? 
-3.	Who’s who. How many researchers? Any designers? Publishers?
-4.	Form teams. 
-5.	Badge creation/brainstorming group. 
-6.	Build and Infrastructure.
-7.	Halfway presentation from both groups and feedback
-8.	Back to groups
-10.	Summing it up
+1.	10am -- Short Presentation. What are Open Badges? Problem of contributorship and credit in science. How can Open Badges help this? (5min)
+2.	10:05am -- Run through. How will this sprint work? (5min)  
+3.	10:10am -- Who’s who. How many researchers? Any designers? Publishers?
+4.	10:15 -- Form teams. 
+5.	10:20am -- Break into group work (see Badges Creation file and Build and Infrastructure file for detailed agendas)
+6.	12pm -- Presentation from both groups and feedback (10 min each group)
+7.	12:20pm -- Back to groups for future planning
 
 ## Ingredients
 * AK to bring laminated badge printouts (3 of each)
