@@ -1,8 +1,8 @@
 # Badges Creation
 
-This group could include researchers, designers, librarians, and others involved in the badging experience.
-You'll be brainstorming what credit is missing in research. 
+Researcher? Designer? Librarian? This group could be for you. You'll be reviewing the current researcher contributorship taxonomy and brainstorming new badges. You'll also be reviewing the criteria needed to earn a badge and putting forward ideas on who should be issuing badges. Finally, you can start shaping some Research Badge Pathways. These will be used in advocacy later on. See below for a suggested breakdown of this group's time.  
 
+Time keeper volunteer?
 
 ## Badges Review (85 min)
 
@@ -15,7 +15,7 @@ For example, besides publications, what skills do you want to see when you hire 
 
 **3.	What are the criteria for each badge? (30 min)**
 
-**4.	Who will be issuing it? (20 min)**
+**4.	Who will be issuing it? Who would you like to see issuing badges? (20 min)**
 
 ## Presentation Prep (15 min)
 Take 15 min to put together a quick presentation (roughly 5min for presenting, 5 for questions)
