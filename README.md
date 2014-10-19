@@ -42,6 +42,8 @@ We'll split up into two groups--one for creating and using badges and one for bu
 * A3 flip boards (2-4)
 * Big and medium black sharpies
 * Lots of post-its
+* Email Issuer: openresearchbadges@gmail.com
+* Pass: Badges4538
 
 ## Session Etherpads
 
