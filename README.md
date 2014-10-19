@@ -44,6 +44,7 @@ We'll split up into two groups--one for creating and using badges and one for bu
 * A3 flip boards (2-4)
 * Big and medium black sharpies
 * Lots of post-its
+* Projector or screen for 5 min presentation
 
 ## Session Etherpads
 
