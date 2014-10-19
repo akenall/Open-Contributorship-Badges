@@ -4,7 +4,7 @@ This group could include researchers, designers, librarians, and others involved
 You'll be brainstorming what credit is missing in research. 
 
 
-## Badges Review (85min)
+## Badges Review (85 min)
 
 You'll have lots of A3 paper, sharpies, and post-its to start your review of the current badges and brainstorming any skills missing. Try starting with these questions:
 
