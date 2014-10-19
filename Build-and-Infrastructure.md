@@ -1,5 +1,9 @@
 # Build and Infrastructure
+There has already been some discussion as to how badges would integrate into the journal article via a “PaperBadger”, a third party site where authors of a paper would complete a matrix on contributorship and iterate until they all had agreed. (The workflow for this idea is described below "Publisher-Badge-Author Workflow.") But is this the best workflow? How will this integrate with organisations like ORCiD? 
 
+This group's aim is to better think through how issuing, earning, and displaying badges will work in the research community. It's goal is to end with a storyboard and future plans. Time allowing, can we put together a rough and ready prototype with DigitalMe's email issuer?
+
+Time Keeper?: 
 
 
 ## What Architecture is Out There?
