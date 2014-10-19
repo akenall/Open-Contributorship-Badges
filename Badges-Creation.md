@@ -9,7 +9,7 @@ Time keeper volunteer?
 You'll have lots of A3 paper, sharpies, and post-its to start your review of the current badges and brainstorming any skills missing. Try starting with these questions:
 
 **1. What research skills are valuable? (20 min)** 
-For example, besides publications, what skills do you want to see when you hire someone? Eg, try writing down your different roles as a researcher. What are some of the most valuable things you learned to do in those roles?
+For example, besides publications, what skills do you want to see when you hire someone? Eg, try writing down your different roles as a researcher. What are some of the most valuable things you learned to do in those roles? Or consider new training: Software Carpentry, Open Science Reproducibility training. Does any of this training necessitate a digital credential? Would Principal Investigtors/hirers be interested in seeing it?
 
 **2. How do these skills compare with the prototype badges? Are any new badges needed? (15 min)**
 
