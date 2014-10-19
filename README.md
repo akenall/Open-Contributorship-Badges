@@ -16,6 +16,8 @@ Research is increasingly reliant on a wide variety of skills ranging from data a
 
 We'll split up into two groups--one for creating and using badges and one for building the badge tool and integration. See files on Badge Creation and Build and Infrastructure.
 
+![](https://cloud.githubusercontent.com/assets/6196005/4693566/ab17d07e-57a1-11e4-934c-58098081bf4f.png)
+
 ## Session Aims
 
 **From the badge creation side** to start putting together badges that can be used to help engage the research community in using the badges and to help solidify criteria for the 14 badges we have. 
