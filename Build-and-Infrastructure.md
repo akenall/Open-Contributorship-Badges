@@ -6,7 +6,7 @@
 
 Before starting to work out a workflow, what pieces are we working with? Much architecture currently exists. What is it capable of?
 
-### Mozilla Badges Architecture
+### Mozilla Badges Architecture (40min)
 
 [**BadgeLab.**](http://badgelab.herokuapp.com/)
 
@@ -49,25 +49,31 @@ https://github.com/mozilla/openbadges-badgekit/wiki/BadgeKit-Self-Hosting-Guide
 
 **[For MozFest: Email Issuer].**
 
-## Storyboard: Receiving a badge and displaying it in ORCiD
+**[Summing it Up: Issue, Earn, Display (20min)]** 
+What does one need to issue a badge?
+What does one need to earn a badge?
+What does one need to display a badge
+
+## Storyboard: Receiving a badge and displaying it in ORCiD (30min)
 In groups of 5 or fewer, develop a storyboard of how someone would eventually receive a contributor badge. Consider social, political, legal, and cultural drivers as you develop your storyboard to develop what your group feels is the most feasible story path.
 
-## Wireframes: Machine-to-Person Interface
-For the components where there is a machine-to-person interface, develop a wireframe of what would be included. Don't worry about images, UI/UX design, etc; concentrate on what information needs to be on the page. Put each design on a separate page. 
+## Midway Presentation (10min each group)
 
-When done, travel your workflow storyboard using your designed pictures. Make adjustments in your flow and designs where things don't work as expected.
-
-## Rough and Ready Prototype
+## Rough and Ready Prototype (30min)
 With the architecture currently out there, can we put something together now (eg, using the email issuer) for a rough and ready prototype showing badges being issued and displayed?
 
-## Planning
+## Planning (20min)
 Where will the PaperBadger data live?
 How to divide up the work?
 Who is the "issuer" owner?
 
 
 
+## Extra time??!
+*Wireframes: Machine-to-Person Interface.*
+For the components where there is a machine-to-person interface, develop a wireframe of what would be included. Don't worry about images, UI/UX design, etc; concentrate on what information needs to be on the page. Put each design on a separate page. 
 
+When done, travel your workflow storyboard using your designed pictures. Make adjustments in your flow and designs where things don't work as expected.
 
 ## Publisher-Badge-Author Workflow
 Below is a very rough draft of what the workflow for issuing and displaying might look like (NB: this needs to be ammeded to include how it will communicate with ORCiD)
