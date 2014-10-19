@@ -4,32 +4,52 @@ The BMC design team produced the badge prototypes of the [14 contributor types b
 ## T1 - [Conceptualization](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Ideas; formulation or evolution of overarching research goals and aims.
 
+![](https://cloud.githubusercontent.com/assets/6196005/4693065/01171b6a-5789-11e4-9471-d7e27c7a1595.png)
+
+
 ## T2 - [Methodology](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Development or design of methodology; creation of models.
+
+![](https://cloud.githubusercontent.com/assets/6196005/4693075/14c5ef56-5789-11e4-8e81-17cbb89ffaa9.png)
 
 ## T3 - [Software](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.
 
+![](https://cloud.githubusercontent.com/assets/6196005/4692966/2e5fb560-5783-11e4-998f-864f63243f94.png) 
+
 ## T4 - [Validation](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs.
+
+![](https://cloud.githubusercontent.com/assets/6196005/4693079/14e83390-5789-11e4-9084-34007e4810a3.png)
 
 ## T5 - [Formal Analysis](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data.
 
+![](https://cloud.githubusercontent.com/assets/6196005/4693073/14c1a0c2-5789-11e4-865e-45a26b2c20c0.png)
+
 ## T6 - [Investigation](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection.
+
+![](https://cloud.githubusercontent.com/assets/6196005/4693070/14b94d6e-5789-11e4-8a42-58596972f8ad.png)
 
 ## T7 - [Resources](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools.
 
+![](https://cloud.githubusercontent.com/assets/6196005/4693076/14d25c28-5789-11e4-8aad-004255767ec6.png)
+
 ## T8 - [Data Curation](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use.
 
-## T9 - [Writing - Original Draft](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
+![](https://cloud.githubusercontent.com/assets/6196005/4693067/0877d070-5789-11e4-820f-443b8f4fb87d.png)
+
+## T9 - [Writing - Initial Draft](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation).
+
+![](https://cloud.githubusercontent.com/assets/6196005/4693078/14e0a4ae-5789-11e4-927c-6143eef2dea8.png)
 
 ## T10 - [Writing - Review & Editing](https://github.com/akenall/Open-Contributorship-Badges/issues/1) 
 Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision - including pre- or post-publication stages.
+
 
 ## T11 - [Visualization](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Preparation, creation and/or presentation of the published work, specifically visualization/data presentation.
