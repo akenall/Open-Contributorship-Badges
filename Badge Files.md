@@ -1,5 +1,6 @@
 # Contributor Types
-The BMC design team produced the badge prototypes of the [14 contributor types below, provided by projectcreditnet](http://www.nature.com/news/publishing-credit-where-credit-is-due-1.15033?WT.ec_id=NATURE-20140417) (headed up by Jo Scott, Liz Allen, Amy Brand et al).
+
+[Projectcreditnet provided the contributor taxonomy below](http://www.nature.com/news/publishing-credit-where-credit-is-due-1.15033?WT.ec_id=NATURE-20140417) (headed up by Jo Scott, Liz Allen, Amy Brand et al), and the BioMed Central Design team provided the initial badge designs. These are licensed under CC-BY 4.0 for maximum reuse. 
 
 ## T1 - [Conceptualization](https://github.com/akenall/Open-Contributorship-Badges/issues/1)
 Ideas; formulation or evolution of overarching research goals and aims.
