@@ -10,6 +10,8 @@ Time Keeper?:
 
 Before starting to work out a workflow, what pieces are we working with? Much architecture currently exists. What is it capable of?
 
+Some architecture has briefly been brainstormed below, but a more thorough list exists in [this Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AsHml-k4XnX7dHJQSDBrdUphYlprc1N0N09KMzFzckE&usp=drive_web#gid=0), pointed out by Billy Meinke. It might be worth adding to the Google Doc.
+
 ### Mozilla Badges Architecture (40min)
 
 [**BadgeLab.**](http://badgelab.herokuapp.com/)
