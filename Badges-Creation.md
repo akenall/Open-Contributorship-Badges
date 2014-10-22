@@ -11,11 +11,15 @@ You'll have lots of A3 paper, sharpies, and post-its to start your review of the
 **1. What research skills are valuable? (20 min)** 
 For example, besides publications, what skills do you want to see when you hire someone? Eg, try writing down your different roles as a researcher. What are some of the most valuable things you learned to do in those roles? Or consider new training: Software Carpentry, Open Science Reproducibility training. Does any of this training necessitate a digital credential? Would Principal Investigtors/hirers be interested in seeing it?
 
+On a piece of A3 paper, brainstorm a list of useful skills (from both the employer and employee point of view).
+
 **2. How do these skills compare with the prototype badges? Are any new badges needed? (15 min)**
+For every new badge you come up with, give it its own A3 page (as has been done with the 14 prototype badges). Sketch out what skills this badge reflects? For example, a short description like "development and design of methodology; creation of models" for the Methodology badge. 
 
-**3.	What are the criteria for each badge? (30 min)**
 
-**4.	Who will be issuing it? Who would you like to see issuing badges? (20 min)**
+## Criteria and issuer (50 min)
+
+The criteria needed to earn each badge (for the 14 prototypes and any new ones) is still undecided. Under each badge A3 sheet, set out the criteria the issuer will be able to evaluate in order to issue the badge. Also suggest who might possibly issue each badge. 
 
 ## Presentation Prep (15 min)
 Take 15 min to put together a quick presentation (roughly 5min for presenting, 5 for questions)
