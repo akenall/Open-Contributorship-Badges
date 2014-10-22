@@ -24,11 +24,11 @@ For every new badge you come up with, give it its own A3 page (as has been done 
 The criteria needed to earn each badge (for the 14 prototypes and any new ones) are still undecided. Under each badge A3 sheet, set out the criteria the issuer will be able to evaluate in order to issue the badge. Also suggest who might possibly issue each badge. 
 
 ## Presentation Prep (15 min)
-Take 15 min to put together a quick presentation (roughly 5min for presenting, 5 for questions)
+Take 15 min to put together a quick presentation (roughly 5min for presenting, 5 for questions) for the rest of the session group. Will come together, present, and get some feedback.
 
 ## Badges Pathways (till end)
 
-"Badge Pathways" map out a What could badge pathways look like? Map out as many badge pathways as possible from role to role on large A3 sheets.
+"Badge Pathways" map out what a badge pathway might look like? Map out as many badge pathways as possible from role to role on large A3 sheets. How do these badges relate to each other? Are they tiered, clustered, etc? Also take a look at the Discovery Pathways PowerPoint on the table and the example of a non-researcher pathway hanging up.
 
 
 
