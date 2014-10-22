@@ -10,5 +10,5 @@ Then I'll run through how this will work. One team will work on "badges brainsto
 ---
 # Setup
 
-Set up A3 pages for each badge.
-For each group, make sure the group agenda is posted clearly on A3 size paper.
+*Set up A3 pages for each badge.
+*For each group, make sure the group agenda is posted clearly on A3 size paper.
