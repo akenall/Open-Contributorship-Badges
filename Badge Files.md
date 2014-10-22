@@ -75,4 +75,4 @@ Acquisition of the financial support for the project leading to this publication
  
 ## What Badges are we missing?
 
-* T15 - Dissemination -- If a few of the authors have been blogging, tweeting, talking to the press, writing the press release, etc about the paper, I think this is a worthwhile skill to highlight.
+T15 - Dissemination -- If a few of the authors have been blogging, tweeting, talking to the press, writing the press release, etc about the paper, I think this is a worthwhile skill to highlight.
