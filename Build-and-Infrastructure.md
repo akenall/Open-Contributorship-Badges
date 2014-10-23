@@ -47,7 +47,7 @@ https://github.com/mozilla/openbadges-badgekit/wiki/BadgeKit-Self-Hosting-Guide
 
 [**Discovery.**](http://discover.openbadges.org/)
 
-**ORCiD Architecture.**
+[**ORCID Registry Architecture.**](ORCID-Architecture.md)
 
 **Publisher APIs.**
 
@@ -60,7 +60,7 @@ What does one need to issue a badge?
 What does one need to earn a badge?
 What does one need to display a badge
 
-## Storyboard: Receiving a badge and displaying it in ORCiD (30min)
+## Storyboard: Receiving a badge and displaying it on an ORCID Record (30min)
 In groups of 5 or fewer, develop a storyboard of how someone would eventually receive a contributor badge. Consider social, political, legal, and cultural drivers as you develop your storyboard to develop what your group feels is the most feasible story path.
 
 ## Midway Presentation (10min each group)
@@ -82,15 +82,16 @@ For the components where there is a machine-to-person interface, develop a wiref
 When done, travel your workflow storyboard using your designed pictures. Make adjustments in your flow and designs where things don't work as expected.
 
 ## Publisher-Badge-Author Workflow
-Below is a very rough draft of what the workflow for issuing and displaying might look like (NB: this needs to be ammeded to include how it will communicate with ORCiD)
+Below is a very rough draft of what the workflow for issuing and displaying might look like.
 
 1. Journal accepts paper and sends email to third party “arbitrator” site (aka PaperBadger) with MS DOI alerting them to acceptance.
 2. Journal sends paper contributors a one-time URL to PaperBadger.
-3. Contributors log in to PaperBadger using ORCID. 
+3. Contributors log in to PaperBadger using their ORCID credentials. Permission is also obtained to write back the badges to their ORCID Records once they are complete.
 4. Contributors are presented with a matrix: contributors are rows, contribution categories are columns. (Categories we envision include "principal author", "contributing author", "data analyst", "programmer", "conducted experiment", but we'll figure these out as part of the pilot, pulling from some existing work in this space around contributorship.)
 5. Each contributor ticks off the categories that she thinks apply to her.  (This is a many-to-many relationship: one contributor can deserve several badges, and several contributors can deserve a single badge for a single paper.)
 6. Once all contributors have entered categories, the system mails them all to ask them to agree to the final distribution of badges.
 7. Contributors iterate if necessary to converge on an agreed set of badges.
-8. Once all contributors have agreed (which we hope will only take one pass, but...), the badge distribution is frozen and the publisher's site is told that badges are available.
-9. When the paper is subsequently displayed on the publisher's site, the badges appear beside the contributors' names (or alternatively there's a button that pops up an overlay of the badges).
+8. Once all contributors have agreed (which we hope will only take one pass, but...), the badge distribution is frozen and the publisher's site is told that badges are available. (NOTE: we should discuss how to get the information back to the publisher - via the ORCID Registry or directly.)
+9. The badge information is written to each contributor's ORCID Record via the ORCID API. They are displayed on the ORCID site with the works (publications) that they refer to. 
+10. When the paper is subsequently displayed on the publisher's site, the badges appear beside the contributors' names (or alternatively there's a button that pops up an overlay of the badges).
 Note that the badges aren't stored on the publisher's site (at least for the MVP): instead, the publisher just needs to know that badges are available, and what URL to query to get them. Similarly, PaperBadger doesn't know anything about the paper beyond its DOI; it either stores a list of contributor names and emails (uploaded from the publisher's site), or queries the publisher's site as needed to get those when someone tries to access the badging matrix for a particular paper.

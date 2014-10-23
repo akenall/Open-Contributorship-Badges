@@ -38,7 +38,7 @@ We'll split up into two groups--one for creating and using badges and one for bu
 * USB keys prepped with PNG/PDF files of badges
 * Laminated Badges cheat sheet
 * Laminated cheat sheets for backpack, API, discovery
-* Laminated ORCiD cheat sheets and interface
+* Laminated ORCID API Architecture cheat sheets and interface
 * A3 flip boards (2-4)
 * Big and medium black sharpies
 * Lots of post-its
